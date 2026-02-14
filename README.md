@@ -19,7 +19,7 @@ It should feel like a story, with a beginning, a middle and an end
 
 **Technical Vision**
 
-InceptionNews is envisioned as an open source borwser extension and platform that will
+InceptionNews is envisioned as an open source browser extension for MVP and platform that will
 
 1) Extract key entites from any news article (people, place, events)
 2) Trace earlier related stories to reveal the origin of the narrative
