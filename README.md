@@ -38,7 +38,7 @@ By keeping InceptionNews Open Source, we invite developers, journalist, research
 
 Open Sources ensures that the logic behind the connection is visble, trustworthy and shaped by a community that values clarity over clicks
 
-**Project Status : Idea Stage**
+**Project Status : Research and Exploration ( Phase 1) refer to the Roadmap**
 
 InceptionNews is currently a concept.
 There is no working prototype yet only a vision, a direction and a mission worth building.
