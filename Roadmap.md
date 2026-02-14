@@ -143,7 +143,7 @@ A stable, polished extension ready for public release
 
 A growing Open Source Ecosystem around InceptionNews
 
-**Phase7 : Long Term Vision**
+**Phase 7 : Long Term Vision**
 
 **Goal** : Expand beyond the Browser Extension into a full platform
 
