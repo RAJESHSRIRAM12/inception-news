@@ -85,7 +85,7 @@ A working prototype showing the core magic:
 **Outcome**
     A functional engine that reveals how stories evolve over time
 
-**Phase4 : Context Visualization**
+**Phase 4 : Context Visualization**
 
 **Goal** : Make the Story Chain Intuitive and Visually Compelling
 
@@ -123,6 +123,47 @@ A visual expereince that makes context easy to understand at a glance
 **Outcome**
 
 A stable, polished extension ready for public release
+
+
+**Phase 6 : Community and Open Source Growth**
+
+**Goal** : Build a community around transperency and context.
+
+**Tasks**
+
+* Write Contibution Guidelines
+* Add Issue Templats
+* Host Discussion and Roadmap updates
+* Invite Journalists, Researchers and Developers
+* Publish Documentation and Tutorials
+* Encourage Community-Driven Improvements to the AI Agent
+
+
+**Outcome**
+
+A growing Open Source Ecosystem around InceptionNews
+
+**Phase7 : Long Term Vision**
+
+**Goal** : Expand beyond the Browser Extension into a full platform
+
+**Tasks**
+
+* Mobile App Version
+* API for researchers and Journalist
+* Historical Story Reconstruction
+* Cross Language News Linking
+* Partnership with Fact Checking Organisation
+* Multi-Agen System for:
+   - Bias Detection
+   - Narrative Comparison
+   - Misinformation Pattern Analysis
+
+**Outcome**
+A platform that transforms how people understand news, from isolated headlines to complete narratives
+   
+
+
 
 
 
