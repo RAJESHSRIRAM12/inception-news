@@ -1,1 +1,3 @@
-# inception-news  <img width="577" height="299" alt="image" src="https://github.com/user-attachments/assets/bbf5b0dd-0497-408f-a7c2-8da356caf82d" />
+# inception-news 
+
+<img width="577" height="299" alt="image" src="https://github.com/user-attachments/assets/3f71f831-2e76-4f58-92a8-a92f121b635e" />
