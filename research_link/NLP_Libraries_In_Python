@@ -1,0 +1,17 @@
+Best Stack for InceptionNews
+
+1) Text Extraction          	trafilatura              Cleanest HTML → text
+
+2) NLP Preprocessing            spaCy                     Fast, production‑ready
+
+3) Entity Extraction            spacY                      Best NER for News
+
+4) Embeddings                  Sentence-Transformers       perfect for Clustering
+
+5) Narrative Framing           Hugging Face ZeroShot       No training needed
+
+6) Sentiment/Tone              Hugging Face                Strong Mode
+
+7) Clustering                  FAISS                       Scalable Vector Search
+
+8) Story Graph                NetworkX/Neo4j               Perfect for Narrative Evolution
