@@ -15,3 +15,24 @@ Best Stack for InceptionNews
 7) Clustering                  FAISS                       Scalable Vector Search
 
 8) Story Graph                NetworkX/Neo4j               Perfect for Narrative Evolution
+
+
+Idea for Workflow with an Agent
+
+1) fetch_article(url)
+
+2) extract_entities(text)
+
+3) generate_embedding(text)
+
+4) classify_framing(text)
+
+5) add_story_node(article_json)
+
+
+
+
+
+
+
+
